@@ -8,4 +8,4 @@ http.createServer(function(req, res){
     res.end('Hello world');
 }).listen(3000);
 
-console.log("Made changes in repo");
+console.log("Made changes in this repository");
